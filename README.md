@@ -1,4 +1,4 @@
-\# 💸 Tip Calculator
+# 💸 Tip Calculator
 
 
 
@@ -6,7 +6,7 @@ A simple and useful Python program designed to help you calculate how much each 
 
 
 
-\## 📝 About the Project
+## 📝 About the Project
 
 
 
@@ -18,11 +18,11 @@ It is built to practice \*\*mathematical operations\*\*, \*\*data type conversio
 
 
 
-\## 🚀 How to Run
+## 🚀 How to Run
 
 
 
-1\. Clone this repository:
+1. Clone this repository:
 
 &nbsp;  ```bash
 
@@ -30,19 +30,19 @@ It is built to practice \*\*mathematical operations\*\*, \*\*data type conversio
 
 
 
-2\. Navigate to the Project directory:
+2. Navigate to the Project directory:
 
 &nbsp;  cd tip-calculator
 
 
 
-3\. Run the script:
+3. Run the script:
 
 &nbsp;  python main.py
 
 
 
-\## 🎮 Usage Example
+## 🎮 Usage Example
 
 When you run the program, it will ask for three inputs:
 
@@ -64,13 +64,12 @@ $ 5
 
 
 
-\## Output:
+## Output:
 
 Each person should pay: $ 33.60
 
 
-
-\## 🛠️ Technologies \& Concepts
+## 🛠️ Technologies \& Concepts
 
 Python 3
 
@@ -92,5 +91,5 @@ F-Strings: For precise string formatting (limiting to 2 decimal places).
 
 
 
-\*\*Developed by Enis\*\*
+**Developed by Enis**
 
